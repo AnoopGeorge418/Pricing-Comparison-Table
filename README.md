@@ -4,7 +4,7 @@ A semantic HTML page demonstrating an accessible pricing comparison table.
 
 ## Project URL
 
-https://roadmap.sh/projects/accessible-html-table
+https://roadmap.sh/projects/pricing-comparison-table
 
 ## Features
 
