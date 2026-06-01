@@ -1,2 +1,34 @@
-# Pricing-Comparison-Table
-A single HTML page that compares three subscription plans side by side using an HTML table.
+````md
+# HTML Table Project
+
+A semantic HTML page demonstrating an accessible pricing comparison table.
+
+## Project URL
+
+https://github.com/AnoopGeorge418/Pricing-Comparison-Table
+
+## Features
+
+- Semantic HTML structure
+- Accessible table markup
+- Table caption
+- Column and row scopes
+- Merged cell using colspan
+- No CSS styling
+
+## How to Run
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/AnoopGeorge418/Pricing-Comparison-Table.git
+````
+
+2. Open `index.html` in your browser.
+
+## Repository URL
+
+https://github.com/AnoopGeorge418/Pricing-Comparison-Table
+
+```
+```
