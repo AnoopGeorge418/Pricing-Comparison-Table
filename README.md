@@ -1,20 +1,19 @@
-````md
 # HTML Table Project
 
 A semantic HTML page demonstrating an accessible pricing comparison table.
 
 ## Project URL
 
-https://github.com/AnoopGeorge418/Pricing-Comparison-Table
+https://roadmap.sh/projects/accessible-html-table
 
 ## Features
 
-- Semantic HTML structure
-- Accessible table markup
-- Table caption
-- Column and row scopes
-- Merged cell using colspan
-- No CSS styling
+* Semantic HTML structure
+* Accessible table markup
+* Table caption
+* Column and row scopes
+* Merged cell using colspan
+* No CSS styling
 
 ## How to Run
 
@@ -22,13 +21,10 @@ https://github.com/AnoopGeorge418/Pricing-Comparison-Table
 
 ```bash
 git clone https://github.com/AnoopGeorge418/Pricing-Comparison-Table.git
-````
+```
 
 2. Open `index.html` in your browser.
 
 ## Repository URL
 
 https://github.com/AnoopGeorge418/Pricing-Comparison-Table
-
-```
-```
